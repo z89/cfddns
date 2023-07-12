@@ -1,0 +1,11 @@
+# Ignore everything in the root
+/*
+
+# Un-ignore all of subtree
+!.vscode
+!.gitignore
+!go.mod
+!go.sum
+!LICENSE
+!cfddns.go
+!README.md
